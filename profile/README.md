@@ -29,7 +29,7 @@
 [<img src="https://github.com/allweare-org/.github/blob/main/profile/images/instagram.svg" width="60px" />](https://www.instagram.com/awanonprofit/)
 [<img src="https://github.com/allweare-org/.github/blob/main/profile/images/facebook.svg" width="60px" />](https://www.facebook.com/allwearenonprofit)
 [<img src="https://github.com/allweare-org/.github/blob/main/profile/images/linkedin.svg" width="60px" />](https://www.linkedin.com/company/awanonprofit/)
-[<img src="https://github.com/allweare-org/.github/blob/main/profile/images/youtube.svg" width="60px" />](https://www.youtube.com/channel/UCc_by7xsZiWEzWzWn-BggyA)
+[<img src="https://github.com/allweare-org/.github/blob/main/profile/images/youtube.svg" width="60px" />](https://www.youtube.com/@allweare1775)
 
   <h3> Admins </h3>
 

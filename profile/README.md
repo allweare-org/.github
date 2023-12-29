@@ -13,12 +13,14 @@
 <div align=center>
 
 <a href="https://allweare.org">
-  <img src="https://github.com/allweare-org/.github/blob/main/profile/images/awa_logo_dark.png#gh-dark-mode-only" alt="All We Are logo" width="400px"/>
+  <img src="https://github.com/allweare-org/.github/blob/main/profile/images/awa_logo_dark.png#gh-dark-mode-only" alt="All We Are logo" width="400px" />
 </a>
 
+<!--
 <a href="https://allweare.org">
   <img src="https://github.com/allweare-org/.github/blob/main/profile/images/awa_logo_light.png#gh-light-mode-only" alt="All We Are logo" width="400px" />
 </a>
+-->
 
   <h2> We're on a mission to bring clean, affordable energy to communities in Uganda. 🇺🇬☀️ </h2>
 

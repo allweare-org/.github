@@ -11,17 +11,17 @@
 
 <div align=center>
 
-  [<img src="images/awa_logo_1.png" width="400px" />](https://www.allweare.org)
+  [<img src="https://github.com/allweare-org/.github/blob/main/profile/images/awa_logo_1.png" width="400px" />](https://www.allweare.org)
   
   <h2> We're on a mission to bring clean, affordable energy to communities in Uganda. 🇺🇬☀️ </h2>
   
   <p> Check out our work at <a href="https://www.allweare.org"> All We Are </a>, where we're providing solar power for 300,000+ individuals in Uganda.  </p>
 
     
-  [<img src="images/instagram.svg" width="60px" />](https://www.instagram.com/awanonprofit/)
-  [<img src="images/facebook.svg" width="60px" />](https://www.facebook.com/allwearenonprofit)
-  [<img src="images/linkedin.svg" width="60px" />](https://www.linkedin.com/company/awanonprofit/)
-  [<img src="images/youtube.svg" width="60px" />](https://www.youtube.com/channel/UCc_by7xsZiWEzWzWn-BggyA)
+  [<img src="https://github.com/allweare-org/.github/blob/main/profile/images/instagram.svg" width="60px" />](https://www.instagram.com/awanonprofit/)
+  [<img src="https://github.com/allweare-org/.github/blob/main/profile/images/facebook.svg" width="60px" />](https://www.facebook.com/allwearenonprofit)
+  [<img src="https://github.com/allweare-org/.github/blob/main/profile/images/linkedin.svg" width="60px" />](https://www.linkedin.com/company/awanonprofit/)
+  [<img src="https://github.com/allweare-org/.github/blob/main/profile/images/youtube.svg" width="60px" />](https://www.youtube.com/channel/UCc_by7xsZiWEzWzWn-BggyA)
   
   <h3> Admins </h3>
   

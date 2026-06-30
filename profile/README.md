@@ -34,6 +34,9 @@
   <h3> Admins </h3>
 
 <a href="https://github.com/s-perk"> Stephen Perkins </a><br>
+<a href="https://github.com/manasachi"> Manasa Chinta </a><br>
+
+  <h4> Contributors </h3>
 <a href="https://github.com/rchardptrsn"> Richard Peterson </a>
 
 </div>

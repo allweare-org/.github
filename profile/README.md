@@ -35,6 +35,6 @@ Our internal tools are kept in a private repository: the pipelines that log inve
   <h3> Contributors </h3>
 
 <a href="https://github.com/rchardptrsn"> Richard Peterson </a><br>
-<a href="https://github.com/claf1"> Luke </a><br>
+<a href="https://github.com/claf1"> Luke Claflin </a><br>
 
 </div>

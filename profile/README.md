@@ -1,42 +1,40 @@
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-<a href="https://www.allweare.org"> All We Are </a>
--->
-
 <div align=center>
 
 <a href="https://allweare.org">
   <img src="https://github.com/allweare-org/.github/blob/main/profile/images/awa_logo_dark.png#gh-dark-mode-only" alt="All We Are logo" width="400px" />
-</a>
-
-<!--
-<a href="https://allweare.org">
   <img src="https://github.com/allweare-org/.github/blob/main/profile/images/awa_logo_light.png#gh-light-mode-only" alt="All We Are logo" width="400px" />
 </a>
--->
 
   <h2> We're on a mission to bring clean, affordable energy to communities in Uganda. 🇺🇬☀️ </h2>
 
-  <p> Check out our work below where we're providing solar power for 300,000+ individuals.  </p>
+  <p> We install solar power at schools and health centres, providing solar power for 100,000+ people daily. </p>
 
 [<img src="https://github.com/allweare-org/.github/blob/main/profile/images/instagram.svg" width="60px" />](https://www.instagram.com/awanonprofit/)
 [<img src="https://github.com/allweare-org/.github/blob/main/profile/images/facebook.svg" width="60px" />](https://www.facebook.com/allwearenonprofit)
 [<img src="https://github.com/allweare-org/.github/blob/main/profile/images/linkedin.svg" width="60px" />](https://www.linkedin.com/company/awanonprofit/)
 [<img src="https://github.com/allweare-org/.github/blob/main/profile/images/youtube.svg" width="60px" />](https://www.youtube.com/@allweare1775)
 
+</div>
+
+## 🔧 What we build
+
+| Project | What it does |
+|---|---|
+| [**AWA-Impact**](https://github.com/allweare-org/AWA-Impact) | An interactive map of our solar installations across Uganda, built from live project data. **[View the live map →](https://allweare-org.github.io/AWA-Impact/)** |
+| [**local-monitoring**](https://github.com/allweare-org/local-monitoring) | Monitoring that runs on a Raspberry Pi at sites without reliable internet. It logs Solarman V5 inverter data on site so it can be collected later. |
+
+Our internal tools are kept in a private repository: the pipelines that log inverter data from monitored sites, compile our impact metrics, and manage our project database. Team members can ask an admin for access.
+
+<div align=center>
+
   <h3> Admins </h3>
 
 <a href="https://github.com/s-perk"> Stephen Perkins </a><br>
 <a href="https://github.com/manasachi"> Manasa Chinta </a><br>
 
-  <h4> Contributors </h3>
-<a href="https://github.com/rchardptrsn"> Richard Peterson </a>
+  <h3> Contributors </h3>
+
+<a href="https://github.com/rchardptrsn"> Richard Peterson </a><br>
+<a href="https://github.com/claf1"> Luke </a><br>
 
 </div>

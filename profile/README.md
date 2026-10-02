@@ -1,11 +1,13 @@
 <div align=center>
 
 <a href="https://allweare.org">
-  <img src="https://github.com/allweare-org/.github/blob/main/profile/images/awa_logo_dark.png#gh-dark-mode-only" alt="All We Are logo" width="400px" />
-  <img src="https://github.com/allweare-org/.github/blob/main/profile/images/awa_logo_light.png#gh-light-mode-only" alt="All We Are logo" width="400px" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/allweare-org/.github/main/profile/images/awa_logo_dark.png" />
+    <img src="https://raw.githubusercontent.com/allweare-org/.github/main/profile/images/awa_logo_light.png" alt="All We Are logo" width="400px" />
+  </picture>
 </a>
 
-  <h2> We're on a mission to bring clean, affordable energy to communities in Uganda. 🇺🇬☀️ </h2>
+  <h2> We're on a mission to bring clean, affordable energy to communities in Uganda. ☀️ </h2>
 
   <p> We install solar power at schools and health centres, providing solar power for 100,000+ people daily. </p>
 
